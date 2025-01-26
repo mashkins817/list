@@ -1,0 +1,25 @@
+h1 {
+    font-size: 60px;
+    color: darkmagenta;
+}
+
+.mainul {
+    font-weight: bold;
+    color: blueviolet;
+}
+
+li:active {
+    color:red;
+}
+
+ul:nth-last-child(2){
+    color:blue;
+}
+
+h3:hover{
+    color: chartreuse;
+}
+
+.first:nth-child(3){
+    color: fuchsia;
+}
